@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello there 👋
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jjdesai)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
+### My GitHub Stats
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjdesai&theme=dark&row=1&no-frame=true" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjdesai&theme=dark"/></a></p>
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjdesai&layout=compact" /></a></p>
 
 <!--
 **jjdesai/jjdesai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
